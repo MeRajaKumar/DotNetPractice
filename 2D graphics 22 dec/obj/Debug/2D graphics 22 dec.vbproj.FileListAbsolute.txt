@@ -1,0 +1,12 @@
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\bin\Debug\2D graphics 22 dec.exe.config
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\bin\Debug\2D graphics 22 dec.exe
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\bin\Debug\2D graphics 22 dec.pdb
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\bin\Debug\2D graphics 22 dec.xml
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\obj\Debug\2D graphics 22 dec.vbprojAssemblyReference.cache
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\obj\Debug\_2D_graphics_22_dec.Form1.resources
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\obj\Debug\_2D_graphics_22_dec.Resources.resources
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\obj\Debug\2D graphics 22 dec.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\obj\Debug\2D graphics 22 dec.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\obj\Debug\2D graphics 22 dec.exe
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\obj\Debug\2D graphics 22 dec.xml
+D:\Programming\Dot net\VB.Net\2D graphics 22 dec\obj\Debug\2D graphics 22 dec.pdb

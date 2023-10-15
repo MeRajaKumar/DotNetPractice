@@ -1,0 +1,12 @@
+D:\Programming\VB.Net\calculatorAG\bin\Debug\calculatorAG.exe.config
+D:\Programming\VB.Net\calculatorAG\bin\Debug\calculatorAG.exe
+D:\Programming\VB.Net\calculatorAG\bin\Debug\calculatorAG.pdb
+D:\Programming\VB.Net\calculatorAG\bin\Debug\calculatorAG.xml
+D:\Programming\VB.Net\calculatorAG\obj\Debug\calculatorAG.vbprojAssemblyReference.cache
+D:\Programming\VB.Net\calculatorAG\obj\Debug\calculatorAG.Form1.resources
+D:\Programming\VB.Net\calculatorAG\obj\Debug\calculatorAG.Resources.resources
+D:\Programming\VB.Net\calculatorAG\obj\Debug\calculatorAG.vbproj.GenerateResource.cache
+D:\Programming\VB.Net\calculatorAG\obj\Debug\calculatorAG.vbproj.CoreCompileInputs.cache
+D:\Programming\VB.Net\calculatorAG\obj\Debug\calculatorAG.exe
+D:\Programming\VB.Net\calculatorAG\obj\Debug\calculatorAG.xml
+D:\Programming\VB.Net\calculatorAG\obj\Debug\calculatorAG.pdb

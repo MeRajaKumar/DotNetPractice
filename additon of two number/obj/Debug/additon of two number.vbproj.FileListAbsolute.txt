@@ -1,0 +1,12 @@
+D:\Programming\Dot net\VB.Net\additon of two number\obj\Debug\additon of two number.vbprojAssemblyReference.cache
+D:\Programming\Dot net\VB.Net\additon of two number\obj\Debug\additon_of_two_number.Form1.resources
+D:\Programming\Dot net\VB.Net\additon of two number\obj\Debug\additon_of_two_number.Resources.resources
+D:\Programming\Dot net\VB.Net\additon of two number\obj\Debug\additon of two number.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\additon of two number\obj\Debug\additon of two number.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\additon of two number\bin\Debug\additon of two number.exe.config
+D:\Programming\Dot net\VB.Net\additon of two number\bin\Debug\additon of two number.exe
+D:\Programming\Dot net\VB.Net\additon of two number\bin\Debug\additon of two number.pdb
+D:\Programming\Dot net\VB.Net\additon of two number\bin\Debug\additon of two number.xml
+D:\Programming\Dot net\VB.Net\additon of two number\obj\Debug\additon of two number.exe
+D:\Programming\Dot net\VB.Net\additon of two number\obj\Debug\additon of two number.xml
+D:\Programming\Dot net\VB.Net\additon of two number\obj\Debug\additon of two number.pdb
