@@ -1,0 +1,11 @@
+D:\Programming\Dot net\VB.Net\factorialProgram\bin\Debug\factorialProgram.exe.config
+D:\Programming\Dot net\VB.Net\factorialProgram\bin\Debug\factorialProgram.exe
+D:\Programming\Dot net\VB.Net\factorialProgram\bin\Debug\factorialProgram.pdb
+D:\Programming\Dot net\VB.Net\factorialProgram\bin\Debug\factorialProgram.xml
+D:\Programming\Dot net\VB.Net\factorialProgram\obj\Debug\factorialProgram.Resources.resources
+D:\Programming\Dot net\VB.Net\factorialProgram\obj\Debug\factorialProgram.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\factorialProgram\obj\Debug\factorialProgram.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\factorialProgram\obj\Debug\factorialProgram.exe
+D:\Programming\Dot net\VB.Net\factorialProgram\obj\Debug\factorialProgram.xml
+D:\Programming\Dot net\VB.Net\factorialProgram\obj\Debug\factorialProgram.pdb
+D:\Programming\Dot net\VB.Net\factorialProgram\obj\Debug\factorialProgram.vbprojAssemblyReference.cache

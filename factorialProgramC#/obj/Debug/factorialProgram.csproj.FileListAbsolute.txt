@@ -1,0 +1,7 @@
+D:\Programming\Dot net\C#.net\factorialProgram\bin\Debug\factorialProgram.exe.config
+D:\Programming\Dot net\C#.net\factorialProgram\bin\Debug\factorialProgram.exe
+D:\Programming\Dot net\C#.net\factorialProgram\bin\Debug\factorialProgram.pdb
+D:\Programming\Dot net\C#.net\factorialProgram\obj\Debug\factorialProgram.csprojAssemblyReference.cache
+D:\Programming\Dot net\C#.net\factorialProgram\obj\Debug\factorialProgram.csproj.CoreCompileInputs.cache
+D:\Programming\Dot net\C#.net\factorialProgram\obj\Debug\factorialProgram.exe
+D:\Programming\Dot net\C#.net\factorialProgram\obj\Debug\factorialProgram.pdb
