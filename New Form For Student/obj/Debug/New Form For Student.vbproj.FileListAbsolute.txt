@@ -1,0 +1,12 @@
+D:\Programming\Dot net\VB.Net\New Form For Student\bin\Debug\New Form For Student.exe.config
+D:\Programming\Dot net\VB.Net\New Form For Student\bin\Debug\New Form For Student.exe
+D:\Programming\Dot net\VB.Net\New Form For Student\bin\Debug\New Form For Student.pdb
+D:\Programming\Dot net\VB.Net\New Form For Student\bin\Debug\New Form For Student.xml
+D:\Programming\Dot net\VB.Net\New Form For Student\obj\Debug\New Form For Student.vbprojAssemblyReference.cache
+D:\Programming\Dot net\VB.Net\New Form For Student\obj\Debug\New_Form_For_Student.Resources.resources
+D:\Programming\Dot net\VB.Net\New Form For Student\obj\Debug\New Form For Student.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\New Form For Student\obj\Debug\New Form For Student.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\New Form For Student\obj\Debug\New Form For Student.exe
+D:\Programming\Dot net\VB.Net\New Form For Student\obj\Debug\New Form For Student.xml
+D:\Programming\Dot net\VB.Net\New Form For Student\obj\Debug\New Form For Student.pdb
+D:\Programming\Dot net\VB.Net\New Form For Student\obj\Debug\New_Form_For_Student.MDI.resources

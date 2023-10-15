@@ -1,0 +1,12 @@
+D:\Programming\Dot net\VB.Net\OddorEvenProject\bin\Debug\OddorEvenProject.exe.config
+D:\Programming\Dot net\VB.Net\OddorEvenProject\bin\Debug\OddorEvenProject.exe
+D:\Programming\Dot net\VB.Net\OddorEvenProject\bin\Debug\OddorEvenProject.pdb
+D:\Programming\Dot net\VB.Net\OddorEvenProject\bin\Debug\OddorEvenProject.xml
+D:\Programming\Dot net\VB.Net\OddorEvenProject\obj\Debug\OddorEvenProject.vbprojAssemblyReference.cache
+D:\Programming\Dot net\VB.Net\OddorEvenProject\obj\Debug\OddorEvenProject.Form1.resources
+D:\Programming\Dot net\VB.Net\OddorEvenProject\obj\Debug\OddorEvenProject.Resources.resources
+D:\Programming\Dot net\VB.Net\OddorEvenProject\obj\Debug\OddorEvenProject.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\OddorEvenProject\obj\Debug\OddorEvenProject.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\OddorEvenProject\obj\Debug\OddorEvenProject.exe
+D:\Programming\Dot net\VB.Net\OddorEvenProject\obj\Debug\OddorEvenProject.xml
+D:\Programming\Dot net\VB.Net\OddorEvenProject\obj\Debug\OddorEvenProject.pdb

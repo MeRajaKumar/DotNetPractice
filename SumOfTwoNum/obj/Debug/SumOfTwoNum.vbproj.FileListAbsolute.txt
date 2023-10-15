@@ -1,0 +1,12 @@
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\bin\Debug\SumOfTwoNum.exe.config
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\bin\Debug\SumOfTwoNum.exe
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\bin\Debug\SumOfTwoNum.pdb
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\bin\Debug\SumOfTwoNum.xml
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\obj\Debug\SumOfTwoNum.vbprojAssemblyReference.cache
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\obj\Debug\SumOfTwoNum.Form1.resources
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\obj\Debug\SumOfTwoNum.Resources.resources
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\obj\Debug\SumOfTwoNum.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\obj\Debug\SumOfTwoNum.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\obj\Debug\SumOfTwoNum.exe
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\obj\Debug\SumOfTwoNum.xml
+D:\Programming\Dot net\VB.Net\SumOfTwoNum\obj\Debug\SumOfTwoNum.pdb
