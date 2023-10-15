@@ -1,0 +1,7 @@
+D:\Programming\Dot net\C#.net\SumOfTwoNumberConsole\bin\Debug\SumOfTwoNumberConsole.exe.config
+D:\Programming\Dot net\C#.net\SumOfTwoNumberConsole\bin\Debug\SumOfTwoNumberConsole.exe
+D:\Programming\Dot net\C#.net\SumOfTwoNumberConsole\bin\Debug\SumOfTwoNumberConsole.pdb
+D:\Programming\Dot net\C#.net\SumOfTwoNumberConsole\obj\Debug\SumOfTwoNumberConsole.csprojAssemblyReference.cache
+D:\Programming\Dot net\C#.net\SumOfTwoNumberConsole\obj\Debug\SumOfTwoNumberConsole.csproj.CoreCompileInputs.cache
+D:\Programming\Dot net\C#.net\SumOfTwoNumberConsole\obj\Debug\SumOfTwoNumberConsole.exe
+D:\Programming\Dot net\C#.net\SumOfTwoNumberConsole\obj\Debug\SumOfTwoNumberConsole.pdb

@@ -1,0 +1,11 @@
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\bin\Debug\SunOfTwoNumConsole.exe.config
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\bin\Debug\SunOfTwoNumConsole.exe
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\bin\Debug\SunOfTwoNumConsole.pdb
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\bin\Debug\SunOfTwoNumConsole.xml
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\obj\Debug\SunOfTwoNumConsole.vbprojAssemblyReference.cache
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\obj\Debug\SunOfTwoNumConsole.Resources.resources
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\obj\Debug\SunOfTwoNumConsole.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\obj\Debug\SunOfTwoNumConsole.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\obj\Debug\SunOfTwoNumConsole.exe
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\obj\Debug\SunOfTwoNumConsole.xml
+D:\Programming\Dot net\VB.Net\SunOfTwoNumConsole\obj\Debug\SunOfTwoNumConsole.pdb
