@@ -1,0 +1,15 @@
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\bin\Debug\DllSumAndMinus.exe.config
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\bin\Debug\DllSumAndMinus.exe
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\bin\Debug\DllSumAndMinus.pdb
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\bin\Debug\DllSumAndMinus.xml
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\bin\Debug\tpcDll.dll
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\bin\Debug\tpcDll.pdb
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.vbprojAssemblyReference.cache
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.Form1.resources
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.Resources.resources
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.vbproj.CopyComplete
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.exe
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.xml
+D:\Programming\Dot net\VB.Net\DllSumAndMinus\obj\Debug\DllSumAndMinus.pdb

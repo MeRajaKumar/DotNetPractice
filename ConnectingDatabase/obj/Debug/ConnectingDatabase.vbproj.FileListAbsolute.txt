@@ -1,0 +1,12 @@
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\bin\Debug\ConnectingDatabase.exe.config
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\bin\Debug\ConnectingDatabase.exe
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\bin\Debug\ConnectingDatabase.pdb
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\bin\Debug\ConnectingDatabase.xml
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\obj\Debug\ConnectingDatabase.Form1.resources
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\obj\Debug\ConnectingDatabase.Resources.resources
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\obj\Debug\ConnectingDatabase.vbproj.GenerateResource.cache
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\obj\Debug\ConnectingDatabase.vbproj.CoreCompileInputs.cache
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\obj\Debug\ConnectingDatabase.exe
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\obj\Debug\ConnectingDatabase.xml
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\obj\Debug\ConnectingDatabase.pdb
+D:\Programming\Dot net\VB.Net\ConnectingDatabase\obj\Debug\ConnectingDatabase.vbprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Programming\Dot net\C#.net\calculatorAG\bin\Debug\calculatorAG.exe.config
+D:\Programming\Dot net\C#.net\calculatorAG\bin\Debug\calculatorAG.exe
+D:\Programming\Dot net\C#.net\calculatorAG\bin\Debug\calculatorAG.pdb
+D:\Programming\Dot net\C#.net\calculatorAG\obj\Debug\calculatorAG.Form1.resources
+D:\Programming\Dot net\C#.net\calculatorAG\obj\Debug\calculatorAG.Properties.Resources.resources
+D:\Programming\Dot net\C#.net\calculatorAG\obj\Debug\calculatorAG.csproj.GenerateResource.cache
+D:\Programming\Dot net\C#.net\calculatorAG\obj\Debug\calculatorAG.csproj.CoreCompileInputs.cache
+D:\Programming\Dot net\C#.net\calculatorAG\obj\Debug\calculatorAG.exe
+D:\Programming\Dot net\C#.net\calculatorAG\obj\Debug\calculatorAG.pdb
