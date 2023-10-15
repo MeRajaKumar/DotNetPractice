@@ -1,0 +1,11 @@
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\obj\Debug\WarningAndErrorBox.csprojAssemblyReference.cache
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\obj\Debug\WarningAndErrorBox.Form1.resources
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\obj\Debug\WarningAndErrorBox.Properties.Resources.resources
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\obj\Debug\WarningAndErrorBox.csproj.GenerateResource.cache
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\obj\Debug\WarningAndErrorBox.csproj.CoreCompileInputs.cache
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\bin\Debug\WarningAndErrorBox.exe.config
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\bin\Debug\WarningAndErrorBox.exe
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\bin\Debug\WarningAndErrorBox.pdb
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\obj\Debug\WarningAndErrorBox.exe
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\obj\Debug\WarningAndErrorBox.pdb
+D:\Programming\Dot net\C#.net\WarningAndErrorBox\obj\Debug\WarningAndErrorBox.Form2.resources
